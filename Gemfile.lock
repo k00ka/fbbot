@@ -1,0 +1,39 @@
+GIT
+  remote: git://github.com/k00ka/wit-ruby.git
+  revision: 5132b5cddcd5107aeb77dea8fcc3bde2e8a5102e
+  branch: rhn
+  specs:
+    wit (3.4.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    byebug (9.0.5)
+    coderay (1.1.1)
+    facebook-messenger (0.7.0)
+      httparty (~> 0.13.7)
+      rack (>= 1.6.4)
+    httparty (0.13.7)
+      json (~> 1.8)
+      multi_xml (>= 0.5.2)
+    json (1.8.3)
+    method_source (0.8.2)
+    multi_xml (0.5.5)
+    pry (0.10.3)
+      coderay (~> 1.1.0)
+      method_source (~> 0.8.1)
+      slop (~> 3.4)
+    rack (2.0.1)
+    slop (3.6.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  byebug
+  facebook-messenger
+  pry
+  wit!
+
+BUNDLED WITH
+   1.12.5
