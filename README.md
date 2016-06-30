@@ -55,16 +55,12 @@ Here are the steps to get you started with the repo.
 
 ## How to set up a conversation with your own Faecbook bot
 
-1. join Github
-1. surf to github.com/k00ka/fbbot
-1. fork the app - https://github.com/hyperoslo/facebook-messenger
-1. clone it
-1. install the bundle
-1. create an grok account
+1. do the above
+1. create an ngrok account - http://ngrok.com
 1. download and install ngrok
 1. start ngrok
 1. sign into Facebook
-1. create a page - community - use your name and check “add to favourites”
+1. create a page - community - use your name and check “add to favorites”
 1. go here https://developers.facebook.com/quickstarts/?platform=web
 1. create a new app (I called my k00kabot)
 1. paste your ngrok URL into Site URL (check this)
