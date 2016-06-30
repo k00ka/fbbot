@@ -90,6 +90,4 @@ Here are the steps to get you started with the repo.
 1. chmod +x run1.sh
 1. CELEBRATE BRIEFLY - you have integrated with Facebook successfully - you're 1/3 of the way there
 
-See you in the workshop!
-
-## Congrats on your new Facebook bot!
+## Come to the workshop to learn how to set up your AI scripts and integrate!
