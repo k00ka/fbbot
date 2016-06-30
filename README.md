@@ -56,49 +56,44 @@ Here are the steps to get you started with the repo.
 ## How to set up a conversation with your own Faecbook bot
 
 1. join Github
-2. surf to github.com/k00ka/fbbot
-2. fork the app - https://github.com/hyperoslo/facebook-messenger
-3. clone it
-4. install the bundle
-5. create an grok account
-6. download and install ngrok
-7. start ngrok
-8. sign into Facebook
-9. create a page - community - use your name and check “add to favourites”
-10. go here https://developers.facebook.com/quickstarts/?platform=web
-11. create a new app (I called my k00kabot)
-12. paste your ngrok URL into Site URL (check this)
-13. in your project space (shell) type: rackup -p 3000 (don’t hit return)
-13. back in the browser go to your app using top-right menu
-14. click dashboard
-15. click Show beside App Secret
-16. copy the app secret token to the end of your command line
-17. add Messenger on the left menu
-18. choose your new page from the page dropdown
-19. accept the warnings
-20. copy the page access to the end of your command line
-21. click setup web hooks
-22. copy ngrok HTTPS token into the callback URL
-23. set your verify token to something you’ll remember
-24. add the verify token to the end of your command line
-25. click at least the “messages” checkbox
-26. add the text “config.ru” to the end of your command line
-27. hit enter on your command line to run the bot (WEBrick starts)
-28. click verify and save on the application page (should verify)
-29. surf back to your new page
-30. click the “. . .” in the header and choose “View as page visitor”
-31. click “Message” in the header
-32. send a message - you should see “Hello, human”
-33. type ctrl-c to stop your script (don’t kill ngrok!)
-34. echo your command line into the file run1.sh (note: it’s in .gitignore, so you can't check it in with your private deets)
-35. chmod +x run1.sh
-36. CELEBRATE BRIEFLY - you have integrated with Facebook successfully - you're 1/3 of the way there
+1. surf to github.com/k00ka/fbbot
+1. fork the app - https://github.com/hyperoslo/facebook-messenger
+1. clone it
+1. install the bundle
+1. create an grok account
+1. download and install ngrok
+1. start ngrok
+1. sign into Facebook
+1. create a page - community - use your name and check “add to favourites”
+1. go here https://developers.facebook.com/quickstarts/?platform=web
+1. create a new app (I called my k00kabot)
+1. paste your ngrok URL into Site URL (check this)
+1. in your project space (shell) type: rackup -p 3000 (don’t hit return)
+1. back in the browser go to your app using top-right menu
+1. click dashboard
+1. click Show beside App Secret
+1. copy the app secret token to the end of your command line
+1. add Messenger on the left menu
+1. choose your new page from the page dropdown
+1. accept the warnings
+1. copy the page access to the end of your command line
+1. click setup web hooks
+1. copy ngrok HTTPS token into the callback URL
+1. set your verify token to something you’ll remember
+1. add the verify token to the end of your command line
+1. click at least the “messages” checkbox
+1. add the text “config.ru” to the end of your command line
+1. hit enter on your command line to run the bot (WEBrick starts)
+1. click verify and save on the application page (should verify)
+1. surf back to your new page
+1. click the “. . .” in the header and choose “View as page visitor”
+1. click “Message” in the header
+1. send a message - you should see “Hello, human”
+1. type ctrl-c to stop your script (don’t kill ngrok!)
+1. echo your command line into the file run1.sh (note: it’s in .gitignore, so you can't check it in with your private deets)
+1. chmod +x run1.sh
+1. CELEBRATE BRIEFLY - you have integrated with Facebook successfully - you're 1/3 of the way there
 
-37. create a new account on wit.ai -just use your Github account
-38. once logged in, create a new app using the + button in the header
-39. name your app "jokeapp"
-40. create a new story called "tell me a joke"
-41. start with a "user says" node, type "tell me a joke about technology"
-42. 
+See you in the workshop!
 
 ## Congrats on your new Facebook bot!
