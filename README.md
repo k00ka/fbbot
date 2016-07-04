@@ -7,7 +7,7 @@ Created by David Andrews and Jason Schweier
 
 There are no slides for this workshop. All of the materials are contained in this readme.
 Here is what we're going to build:
-(Facebook Bot design)[https://raw.githubusercontent.com/k00ka/fbbot/master/design.png]
+!(Facebook Bot design)[https://raw.githubusercontent.com/k00ka/fbbot/master/design.png]
 
 ###Introduction
 This project is a simple Ruby project. The workshop comes in four parts:
