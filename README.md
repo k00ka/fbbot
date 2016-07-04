@@ -1,12 +1,12 @@
 FBBot - the Ruby Hack Night Facebook Bot
 ========================================
 
-Slides and assets for the FBBot workshop [first presented at Toronto Ruby Hack Night, June 30, 2016]  
-Workshop for learning Chatbots, Facebook messaging and Wit.ai
-Created by David Andrews and Jason Schweier  
+Slides and assets for the FBBot workshop [first presented at Toronto Ruby Hack Night, June 30, 2016]    
+Workshop for learning Chatbots, Facebook messaging and Wit.ai  
+Created by David Andrews and Jason Schweier    
 
-There are no slides for this workshop. All of the materials are contained in this readme.
-Here is what we're going to build:
+There are no slides for this workshop. All of the materials are contained in this readme.  
+Here is what we're going to build:  
 ![Facebook Bot design](https://raw.githubusercontent.com/k00ka/fbbot/master/design.png)
 
 ###Introduction
