@@ -140,4 +140,4 @@ Here are the steps to get you started with the repo.
 1. Go into your Facebook chat and give it a try!
 1. Play, train and revise
 
-## Congratulations, you've created a Facebook bot with Natural Language Parsing and Artificial Intelligance!
+Congratulations, you've created a Facebook bot with an AI back-end!
