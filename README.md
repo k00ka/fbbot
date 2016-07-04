@@ -11,6 +11,7 @@ Here is what we're going to build:
 
 ###Introduction
 This project is a simple Ruby project. The workshop comes in four parts:
+
 1. create a Facebook app and host it on a page
 1. create a Wit.ai bot
 1. connect Facebook and Wit.ai
@@ -138,6 +139,10 @@ Here are the steps to get you started with the repo.
 1. Click "understanding" and train up these two interactions - ensuring each has either positive or negative values for sentiment
 1. Run your bot by typiing "./run2.sh" at the command-line
 1. Go into your Facebook chat and give it a try!
-1. Play, train and revise
+1. CELEBRATE MORE - you now have FB hooked to your Wit.ai back-end
+
+## Train your AI
+1. Play, train and revise using the Understanding tab in Wit.ai
+2. The Wit.ai Stories tab is in beta as I write this - save and opy your storied often or risk losing your work!
 
 Congratulations, you've created a Facebook bot with an AI back-end!
